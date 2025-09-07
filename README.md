@@ -61,10 +61,16 @@
 - ThymeLeaf
 
 ## 🏷담당 작업
-## 입양/임시보호/봉사 커뮤니티 게시판 및 댓글 신고 기능
+## 입양/임시보호/후기/봉사 커뮤니티 게시판 및 댓글 신고 기능
 
-카풀 게시판과 커뮤니티 게시판은 **회원과 비회원**의 접근 권한에 따라 기능이 다르게 제공됩니다.
+모든 게시판은 **회원과 비회원**의 접근 권한에 따라 기능이 다르게 제공됩니다.
 <details>
- <summary>카풀<a href="https://github.com/siwoo-9943/HOPEDOG-Backend/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90"> WIKI로 이동 </a></summary>
+입양·임시보호·후기·봉사 게시판
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e9b99e98-3cfd-4e05-a54b-f1ca20ad727a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/993df1fd-bd37-4b31-9807-459cc3093471" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/df081d08-2862-4915-ae46-4fbf5ffab33a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6de78d00-9a67-4538-b4d6-a688c75c4b42" />
+
+
 <details>
-<summary>카풀 게시판(비회원)</summary>
+
